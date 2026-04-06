@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task1.ac/Task1.ac.vcxproj" />
+  <Project Path="Task1/Task1.vcxproj" />
+</Solution>
