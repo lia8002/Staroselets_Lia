@@ -1,3 +1,5 @@
+bin\
+obj\
 # Prerequisites
 *.d
 
@@ -30,3 +32,17 @@
 *.exe
 *.out
 *.app
+*.db
+*.suo
+*.user
+*.vsidx
+ipch/
+*.log
+*.tlog
+*.ilk
+*.idb
+*.pdb
+*.exe.recipe
+*.exe
+
+
