@@ -1,4 +1,25 @@
- feature_task2
+
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+
 bin\
 obj\
 # Prerequisites
@@ -32,7 +53,7 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 
-feature_task2
+
 # Executables
 *.exe
 *.out
@@ -40,6 +61,7 @@ feature_task2
 *.db
 *.suo
 *.user
+
 *.vsidx
 ipch/
 *.log
@@ -48,6 +70,4 @@ ipch/
 *.idb
 *.pdb
 *.exe.recipe
-*.exe
-
 
