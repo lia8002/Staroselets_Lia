@@ -15,6 +15,11 @@
 *.la
 *.a
 *.lib
+
+*.exe
+*.out
+*.app
+
 *.exe
 *.out
 *.app
@@ -59,6 +64,7 @@ cmake_install.cmake
 *.out
 *.app
 
+
 *.vsidx
 ipch/
 *.log
@@ -66,5 +72,3 @@ ipch/
 *.ilk
 *.idb
 *.pdb
-*.exe.recipe
-
