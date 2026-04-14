@@ -1,3 +1,4 @@
+
 *.d
 *.slo
 *.lo
@@ -17,6 +18,50 @@
 *.exe
 *.out
 *.app
+
+
+bin\
+obj\
+# Prerequisites
+*.d
+
+
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+*.obj
+*.o
+
+# Logs
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+
+# Executables
+*.exe
+*.out
+*.app
+*.db
+*.suo
+*.user
+
 *.vsidx
 ipch/
 *.log
@@ -25,3 +70,4 @@ ipch/
 *.idb
 *.pdb
 *.exe.recipe
+
