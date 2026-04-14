@@ -1,10 +1,10 @@
-# Build results
-Debug/
-Release/
-x64/
-x86/
-build/
-out/
+ feature_task2
+bin\
+obj\
+# Prerequisites
+*.d
+
+
 
 # Visual Studio files
 .vs/
@@ -31,13 +31,23 @@ out/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
 
-# Temporary files
-*.tmp
-*.temp
-*.cache
+feature_task2
+# Executables
+*.exe
+*.out
+*.app
+*.db
+*.suo
+*.user
+*.vsidx
+ipch/
+*.log
+*.tlog
+*.ilk
+*.idb
+*.pdb
+*.exe.recipe
+*.exe
 
-# OS files
-.DS_Store
-Thumbs.db
+
